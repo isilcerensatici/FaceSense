@@ -3,7 +3,8 @@
 FaceSense is a real-time facial expression analysis project that detects basic emotions (Happy, Sad, Surprised, Neutral) using image processing techniques. The project employs a rule-based approach grounded in geometric measurements on the face.
 ## 📌 About the Project
 This project was developed during the 4th year Fall Semester for the Image Processing course.  
-It was prepared as part of a term assignment given by Dr. Yusuf Uzun.
+It was prepared as part of a term assignment given by **Assistant Professor Dr. Yusuf Uzun**.  
+The project was carried out collaboratively with my classmate **Muhammed Yusuf Kocaoğlan**.
 
 The main goal of the project is to perform emotion analysis without relying on heavy AI models, instead using geometric data obtained from specific facial reference points.
 ## 🧪 Development Process
@@ -40,7 +41,8 @@ FaceSense demonstrates that emotion analysis can be achieved through a geometric
 FaceSense, gerçek zamanlı yüz ifadelerini analiz ederek temel duyguları (Mutlu, Üzgün, Şaşkın, Nötr) tespit eden bir görüntü işleme projesidir. Proje, yüz üzerindeki geometrik ölçümleri temel alan kural tabanlı bir yaklaşım kullanmaktadır.
 ## 📌 Proje Hakkında
 Bu proje, 4. sınıf Güz Dönemi kapsamında, Görüntü İşleme dersi için geliştirilmiştir.  
-Çalışma, Dr. Öğr. Üyesi Yusuf Uzun tarafından verilen dönem ödevi kapsamında hazırlanmıştır.
+Çalışma, **Dr. Öğr. Üyesi Yusuf Uzun** tarafından verilen dönem ödevi kapsamında hazırlanmıştır.  
+Proje, sınıf arkadaşım **Muhammed Yusuf Kocaoğlan** ile birlikte yürütülmüştür.
 
 Projenin amacı, ağır yapay zeka modellerine ihtiyaç duymadan, yüz üzerindeki belirli referans noktalarından elde edilen geometrik veriler ile duygu analizi yapabilmektir.
 ## 🧪 Geliştirme Süreci
